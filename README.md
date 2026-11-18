@@ -1,5 +1,5 @@
 ## NAME :Rakesh K S
-## REG N0:212224040264
+## REG NO:212224040264
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
@@ -79,7 +79,7 @@ flowchart TD
 <img width="1917" height="1132" alt="image" src="https://github.com/user-attachments/assets/d6a894d3-d412-46ff-9f05-0279c0dc7077" />
 
 <img width="1917" height="1130" alt="image" src="https://github.com/user-attachments/assets/15e1b743-3a22-4900-99bc-401e8c0ac724" />
-<img width="1913" height="1127" alt="image" src="https://github.com/user-attachments/assets/a277834f-835c-4786-954f-885f77ebb338" />Processes
+<img width="1913" height="1127" alt="image" src="https://github.com/user-attachments/assets/a277834f-835c-4786-954f-885f77ebb338" />
 <img width="1917" height="1142" alt="image" src="https://github.com/user-attachments/assets/916f9695-af76-4b96-8c92-53aee3cb1d27" />
 
 <img width="1917" height="1127" alt="image" src="https://github.com/user-attachments/assets/56a54682-e100-429c-b968-9c824277ea0f" />
