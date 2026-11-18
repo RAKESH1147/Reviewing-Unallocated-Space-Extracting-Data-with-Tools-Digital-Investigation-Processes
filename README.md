@@ -104,6 +104,7 @@ flowchart TD
 
 <img width="1917" height="1133" alt="image" src="https://github.com/user-attachments/assets/80d91461-d09a-4dea-939d-e4ea89412404" />
 
+<img width="1917" height="1127" alt="image" src="https://github.com/user-attachments/assets/94287429-6512-4771-b3d0-07c8888f40b9" />
 
 Unallocated Space Analysis and Extracted Data Report
 
