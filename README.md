@@ -1,4 +1,5 @@
-
+## NAME :Rakesh K S
+## REG N0:212224040264
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
@@ -74,13 +75,6 @@ flowchart TD
 
 <img width="1917" height="1138" alt="image" src="https://github.com/user-attachments/assets/b2c29c0d-b9f7-4988-a7f3-5f0e4829749e" />
 
-<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/9eff3a05-36fe-4bc8-93e9-69ac7c9600e5" />
-
-<img width="1917" height="1136" alt="image" src="https://github.com/user-attachments/assets/f58affe7-92d7-44ef-8860-6a7a7e26e0fa" />
-
-<img width="1917" height="1137" alt="image" src="https://github.com/user-attachments/assets/0ec5417f-7c77-446c-83db-3b44dd84f401" />
-
-<img width="1917" height="1112" alt="image" src="https://github.com/user-attachments/assets/74ec3024-7f37-445e-a800-31a677994aa1" />
 
 <img width="1917" height="1132" alt="image" src="https://github.com/user-attachments/assets/d6a894d3-d412-46ff-9f05-0279c0dc7077" />
 
@@ -96,9 +90,14 @@ flowchart TD
 
 <img width="1917" height="1143" alt="image" src="https://github.com/user-attachments/assets/61ec43d1-6a58-46e4-9af5-be34c73914a8" />
 
-<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/2eee78fc-4af5-46c3-8b2c-283c39434d15" />
+<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/9eff3a05-36fe-4bc8-93e9-69ac7c9600e5" />
 
-<img width="1917" height="1128" alt="image" src="https://github.com/user-attachments/assets/d3c646da-83e7-4451-8640-4ce84e70e0ad" />
+<img width="1917" height="1136" alt="image" src="https://github.com/user-attachments/assets/f58affe7-92d7-44ef-8860-6a7a7e26e0fa" />
+
+<img width="1917" height="1137" alt="image" src="https://github.com/user-attachments/assets/0ec5417f-7c77-446c-83db-3b44dd84f401" />
+
+<img width="1917" height="1112" alt="image" src="https://github.com/user-attachments/assets/74ec3024-7f37-445e-a800-31a677994aa1" />
+
 
 <img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/844e864c-1100-44c4-b3e7-42ea3befcca8" />
 
